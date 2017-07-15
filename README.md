@@ -10,7 +10,7 @@ brew install scala
 # you should be able to do: scala -version
 ```
 
-## Usage
+## Usage
 
 ```sh
 scalac HW.scala
